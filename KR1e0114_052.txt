@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:17:35.672775
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 讀春秋偶筆
 <pb:KR1e0114_WYG_052-1a>¶
 讀春秋偶筆¶
 春秋一書一以存綱紀一以紀世變如吴楚本僭稱王¶
@@ -614,4 +616,3 @@
 　¶
 　¶
 　讀春秋偶筆¶
-

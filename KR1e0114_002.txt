@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:17:34.686469
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二之一
 <pb:KR1e0114_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋大事表卷二之一¶
@@ -281,4 +283,3 @@
 　¶
 　¶
 　春秋大事表卷二之一¶
-

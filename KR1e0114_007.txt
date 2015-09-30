@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:17:34.810630
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七之一
 <pb:KR1e0114_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋大事表卷七之一¶
@@ -173,6 +175,7 @@
 　¶
 　¶
 　春秋大事表卷七之一¶
+#+PROPERTY: JUAN 卷七之三
 <pb:KR1e0114_WYG_007-55a>¶
 欽定四庫全書¶
 　春秋大事表卷七之三¶
@@ -280,6 +283,7 @@
 　¶
 　¶
 　春秋大事表卷七之三¶
+#+PROPERTY: JUAN 卷七之四
 <pb:KR1e0114_WYG_007-99a>¶
 欽定四庫全書¶
 　春秋大事表卷七之四¶
@@ -561,4 +565,3 @@
 　¶
 　¶
 　春秋大事表卷七之四¶
-

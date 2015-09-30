@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:17:34.644994
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 目録
 <pb:KR1e0114_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋大事表目録　　　　春秋𩔖¶
@@ -196,4 +198,3 @@
 　　　　四月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-

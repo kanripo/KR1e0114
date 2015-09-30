@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 47
+#+DATE: 2015-08-24 22:17:35.573808
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十七
 <pb:KR1e0114_WYG_047-1a>¶
 欽定四庫全書¶
 　春秋大事表卷四十七¶
@@ -137,4 +139,3 @@
 　¶
 　¶
 　春秋大事表卷四十七¶
-

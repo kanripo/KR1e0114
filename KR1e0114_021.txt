@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:17:35.064889
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1e0114_WYG_021-1a>¶
 欽定四庫全書¶
 　春秋大事表卷二十一¶
@@ -265,4 +267,3 @@
 　然前儒已多有疑及此者不獨望溪一人之創見也¶
 　謹附識于此¶
 　春秋大事表卷二十一¶
-

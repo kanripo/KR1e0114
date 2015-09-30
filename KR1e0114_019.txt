@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:17:35.030189
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九上
 <pb:KR1e0114_WYG_019-1a>¶
 欽定四庫全書¶
 　春秋大事表卷十九上¶
@@ -188,6 +190,7 @@
 　公如齊逆女當以為常事而不書矣¶
 　¶
 　春秋大事表卷十九上¶
+#+PROPERTY: JUAN 卷十九下
 <pb:KR1e0114_WYG_019-16a>¶
 欽定四庫全書¶
 　春秋大事表卷十九下¶
@@ -584,4 +587,3 @@
 　¶
 　¶
 　春秋大事表卷十九下¶
-

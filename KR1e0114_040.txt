@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋大事表
-#+DATE: 2015-09-23 09:40:41
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:17:35.395583
+#+PROPERTY: ID KR1e0114
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十
 <pb:KR1e0114_WYG_040-1a>¶
 欽定四庫全書¶
 　春秋大事表卷四十¶
@@ -181,4 +183,3 @@
 　¶
 　¶
 　春狄大事表卷四十¶
-
